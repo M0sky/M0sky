@@ -1,5 +1,5 @@
 # Hey, I’m Mosky
-I am Mosky, a 25-year-old software engineer.
+I am Mosky, a 25-year-old computer engineer.
 
 ## 🤹 About me
 - 🐾 Studying Intelligent Systems at the University of Salamanca
